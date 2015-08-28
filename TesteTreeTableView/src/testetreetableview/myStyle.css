@@ -1,0 +1,8 @@
+.tree-cell {
+    -fx-background-color: yellow ;
+}
+
+.tree-view {
+    -fx-background-color: yellowgreen;
+    -fx-background-insets: 0, 1;
+}
